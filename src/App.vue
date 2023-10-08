@@ -7,7 +7,7 @@ import {ref} from 'vue';
   <h1>Chuck Norris "Facts"</h1>
   <div>
     <div>
-      <a class="text-bold text-emerald-700" href="https://api.chucknorris.io/jokes/random" target="\src\randomJoke.vue">Click Me for Fun!!!</a>
+      <a class="text-bold text-emerald-700" href="https://api.chucknorris.io/jokes/random">Click Me for Fun!!!</a>
 
     </div>
   </div>
